@@ -52,10 +52,11 @@ I did an upgrade and then installed electrum
 ![PIC 1 ELECTRUM INSTALLED](https://github.com/user-attachments/assets/0864f606-d7b4-418e-8bb0-530cdf7e805f)
 
 Configured electrum and created a bitcoin testnet wallet 
-![pic 2 run  electrum testnet](https://github.com/user-attachments/assets/6133557d-e11e-465f-b3fa-4407534f52be)
+![pic 3 created wallet-1](https://github.com/user-attachments/assets/2233aedb-edec-4c0d-bfd4-a7db3969dad0)
+
 
 ## b) Faucet. Get worthless fake money from a testnet Bitcoin faucet.
-Went to faucet and got bitcoin money to my wallet
+Went to faucet and got bitcoin money to my wallet (https://coinfaucet.eu/en/btc-testnet/)
 ![got money from bitcoin faucet](https://github.com/user-attachments/assets/5935c4bd-247b-4490-ac5e-03ac54642deb)
 
 Recieved money
